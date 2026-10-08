@@ -1,9 +1,9 @@
-# Kelvin.<!DOCTYPE html>
+# Webber
 <html lang="zh-Hant">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-<title>掛機深淵 · Idle Abyss</title>
+<title>李文博 · Idle Abyss</title>
 <style>
   * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; margin: 0; padding: 0; }
   body {
