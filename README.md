@@ -136,7 +136,7 @@
 </head>
 <body>
 
-<h1>掛機深淵</h1>
+<h1>李文博</h1>
 <div class="subtitle">IDLE ABYSS</div>
 
 <!-- 資源面板 -->
